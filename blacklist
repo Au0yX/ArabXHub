@@ -1,0 +1,2 @@
+-- 20
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/test/main/autofarm", true))()
