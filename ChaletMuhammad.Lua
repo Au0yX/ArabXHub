@@ -4,6 +4,6 @@
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
                 Title = "تم ايقاف السكربت";
-                Text = "للمزيد ادخل ديسكورد"
+                Text = "للمزيد ادخل ديسكورد";
                 Duration = 10;
             })
